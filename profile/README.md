@@ -11,3 +11,9 @@ Features of this project include Personalized Dashboard, Task Management, Review
 - Project Management
 - Payment Method Integration
 - Admin Site for managing users
+
+## Tech Stack
+- React
+- Node JS
+- PostgreSQL
+- Stripe
